@@ -1,0 +1,46 @@
+@charset "utf-8";
+body {
+	background-image: url(%E5%9B%BE%E7%89%8721.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+#top{
+	width: 1350px;
+	height: 400px;
+}
+#title{
+	width: 304px;
+	background-image: url( 图片20.png);
+	font-family: "幼圆";
+	font-weight: 800;
+	font-size: 36px;
+	color: #00897B;
+	line-height: 300px;
+	text-align: center;
+	margin-top: 63px;
+	float: left;
+	margin-left: 485px;
+	text-shadow: -2px 3px 8px;
+}
+#background2{
+	float: right;
+	margin-top: 0px;
+	bottom: 0px;
+	right: 0px;
+	left: 100%;}
+#text{
+	width: 1350px;
+	text-align: center;
+	margin-left: 64px;
+}
+#bottom{
+	width: 100%;
+	height: 100px;
+	background-color: #5489D9;
+	font-family: "方正姚体";
+	font-size: 24;
+	text-align: center;
+	margin-top: 30px;
+	padding-top: 41px;
+	letter-spacing: 7px;
+}

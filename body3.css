@@ -1,0 +1,49 @@
+@charset "utf-8";
+body{
+	background: url(树洞背景.jpg);
+}
+a:link,a:active,a:visited,a:hover{
+text-decoration: none;
+color:#11B36F;
+}
+a:hover{
+color: #CC57D3;	
+}
+
+#box{
+	width: 1300px;
+	padding-top: 38px;
+	background-attachment: scroll;
+}
+#top{
+	width: 966px;
+	height: 132px;
+	margin-top: 60px;
+	margin-left: 55px;
+	color: #11B36F;
+	font-family: "方正姚体";
+	font-size: 60px;
+	float: left;
+}
+#menu{
+	font-family: "华文仿宋";
+	font-size: 36px;
+	font-weight: 800;
+	text-shadow: 1px 1px 4px #333;
+	color: dimgrey;
+	word-spacing: 30px;
+}
+#top2{
+	float: right;
+	width: 208px;
+	height: 110px;
+	margin-top: 71px;
+	color: #11B36F;
+	font-family: "幼圆";
+	font-weight: 500;
+	font-size: xx-large;
+	text-shadow: 1px 1px 7px;
+	border-right-style: solid;
+	border-right-width: 11px;
+	
+}

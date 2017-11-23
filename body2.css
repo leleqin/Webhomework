@@ -1,0 +1,56 @@
+@charset "utf-8";
+body {
+    background: url(侧背1.png);
+	background-repeat: repeat-y;
+}
+ a:link,a:active,a:visited,a:hover{
+text-decoration: none;
+color:#114c81;
+}
+#menu {
+	height: 250px;
+	width: 1200px;
+	margin-top: 50px;
+	margin: auto;
+	font-size: 18px;
+	font-family: "方正姚体";
+	color: #A68FD4;
+}
+#menu2{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 24px;
+	font-family: "幼圆";
+	color: #CC57D3;
+	text-align: right;
+	text-decoration: none;
+	width: 606px;
+	height: 200px;
+	background-image: url(menu.png);
+	line-height: 131px;
+    float: right;
+}
+#entry{
+	width: 400px;
+	height: 100%;
+	margin-top: 0px;
+	float: left;
+	margin-left: 140px;
+}
+#text{
+	margin-left: 150px;
+	color: #403B3B;
+	font-family: "仿宋";
+	font-size: x-large;
+	width: 1050px;
+}
+#bottom{
+	width: 100%;
+	height: 100px;
+	background-color: #5489D9;
+	font-family: "方正姚体";
+	font-size: 24;
+	text-align: center;
+	margin-top: 30px;
+	padding-top: 41px;
+	letter-spacing: 7px;
+}
